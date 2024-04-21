@@ -1,0 +1,10 @@
+spring:
+    data:
+        mongodb:
+            username: tarzan
+            password: tarzan
+            host: localhost
+            port: 27017
+            database: mydb
+            authentication-database: admin
+            
