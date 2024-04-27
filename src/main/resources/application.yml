@@ -5,6 +5,6 @@ spring:
             password: tarzan
             host: localhost
             port: 27017
-            database: mydb
+            database: aggreg
             authentication-database: admin
             
